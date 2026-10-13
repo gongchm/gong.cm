@@ -94,7 +94,7 @@ main h2 {
   padding-bottom: .35rem;
   border-bottom: 1px solid var(--line);
 }
-main h2 a { font-family: var(--sans); font-size: .85rem; font-weight: 450; margin-left: .6rem; }
+main h2 a, main h3 a { font-family: var(--sans); font-size: .85rem; font-weight: 450; margin-left: .6rem; }
 main h3 { font-size: 1rem; margin: 1.1rem 0 .35rem; }
 
 .plain { margin: 0; padding-left: 1.15rem; }
