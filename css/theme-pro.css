@@ -83,7 +83,7 @@ p { margin: 0 0 .8rem; }
 .role, .bio, .meta, .kicker { color: var(--muted); }
 .role { margin: 0 0 2px; }
 .bio { margin: 10px 0; color: var(--text); }
-.emails { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 8px 0 0; }
+.emails { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 8px; }
 .emails a { font-family: var(--sans); font-size: .95rem; }
 
 main { width: min(var(--measure), calc(100% - 40px)); margin: 0 auto; padding-bottom: 64px; }
