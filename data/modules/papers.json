@@ -25,8 +25,18 @@
       "volume": 23,
       "issue": 4,
       "pages": "10-12",
-      "keywords": ["旁路代", "识别算法", "配电系统", "故障诊断"],
-      "keywordsEn": ["Series capacitors", "Identification algorithm", "Distribution system", "Fault diagnosis"],
+      "keywords": [
+        "旁路代",
+        "识别算法",
+        "配电系统",
+        "故障诊断"
+      ],
+      "keywordsEn": [
+        "Series capacitors",
+        "Identification algorithm",
+        "Distribution system",
+        "Fault diagnosis"
+      ],
       "abstract": "提出了一种旁路电容器组识别算法。针对传统识别方法在处理复杂配电系统时的局限性，通过分析电容器组的投切特性和电流特征，实现了对旁路电容器的准确识别。",
       "abstractEn": "A series capacitor banks identification algorithm is proposed. To address the limitations of traditional identification methods when dealing with complex distribution systems, accurate identification of series capacitors is achieved by analyzing the switching characteristics and current features of capacitor banks.",
       "url": "/files/bypass.pdf"
@@ -64,8 +74,18 @@
       "issue": 6,
       "pages": "1-3",
       "doi": "10.19464/j.cnki.cn32-1541/tm.2006.06.001",
-      "keywords": ["节点注入量", "补偿法", "电力系统", "潮流计算"],
-      "keywordsEn": ["Node injection power", "Compensation method", "Power system", "Power flow calculation"],
+      "keywords": [
+        "节点注入量",
+        "补偿法",
+        "电力系统",
+        "潮流计算"
+      ],
+      "keywordsEn": [
+        "Node injection power",
+        "Compensation method",
+        "Power system",
+        "Power flow calculation"
+      ],
       "abstract": "提出了一种基于节点注入量修正的改进补偿法。通过修正节点注入功率，提高了潮流计算的收敛性和计算精度。该方法适用于各种复杂电力系统的潮流分析。",
       "abstractEn": "An improved compensation method based on node injection power correction is proposed. By correcting node injection power, the convergence and calculation accuracy of power flow calculation are improved. The method is suitable for power flow analysis of various complex power systems.",
       "url": "https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19464/j.cnki.cn32-1541/tm.2006.06.001"
@@ -114,8 +134,18 @@
       "volume": 30,
       "issue": 21,
       "pages": "95-98",
-      "keywords": ["EMS", "规划态", "应用软件", "电力系统"],
-      "keywordsEn": ["EMS", "Planning mode", "Application software", "Power system"],
+      "keywords": [
+        "EMS",
+        "规划态",
+        "应用软件",
+        "电力系统"
+      ],
+      "keywordsEn": [
+        "EMS",
+        "Planning mode",
+        "Application software",
+        "Power system"
+      ],
       "abstract": "介绍了EMS规划态应用软件的开发与应用。该软件能够支持电网规划方案的评估和优化，为电网规划人员提供技术支持。软件已在多个省级电网公司中成功应用。",
       "abstractEn": "The development and application of EMS planning mode application software are introduced. The software can support the evaluation and optimization of power grid planning schemes, providing technical support for power grid planners. The software has been successfully applied in multiple provincial power grid companies.",
       "url": "http://www.aeps-info.com/aeps/ch/reader/create_pdf.aspx?file_no=d062120&flag=1&journal_id=aeps&year_id=2006"
@@ -156,8 +186,18 @@
       "volume": 34,
       "issue": 1,
       "pages": "1841-1846",
-      "keywords": ["多级调度", "联合等值", "在线应用", "电力系统"],
-      "keywordsEn": ["Multi-level dispatch", "Joint equivalence", "Online application", "Power system"],
+      "keywords": [
+        "多级调度",
+        "联合等值",
+        "在线应用",
+        "电力系统"
+      ],
+      "keywordsEn": [
+        "Multi-level dispatch",
+        "Joint equivalence",
+        "Online application",
+        "Power system"
+      ],
       "abstract": "研究了多级调度在线联合等值应用问题。提出了一种适用于多级调度系统的在线等值方法，提高了大规模电力系统的计算效率和调度精度。",
       "abstractEn": "The online joint equivalence application for multi-level dispatch is studied. An online equivalence method suitable for multi-level dispatch systems is proposed, improving the computational efficiency and dispatch accuracy of large-scale power systems."
     },
@@ -189,8 +229,18 @@
       "volume": 32,
       "issue": 10,
       "pages": "76-79",
-      "keywords": ["EMS", "系统拓扑", "五防", "电网安全"],
-      "keywordsEn": ["EMS", "System topology", "Five-prevention", "Power grid security"],
+      "keywords": [
+        "EMS",
+        "系统拓扑",
+        "五防",
+        "电网安全"
+      ],
+      "keywordsEn": [
+        "EMS",
+        "System topology",
+        "Five-prevention",
+        "Power grid security"
+      ],
       "abstract": "介绍了EMS中系统拓扑五防的设计和实现。该系统能够有效防止误操作，提高电网运行的安全性和可靠性。",
       "abstractEn": "The design and implementation of system topology five-prevention in EMS are introduced. The system can effectively prevent misoperations and improve the safety and reliability of power grid operation."
     },
@@ -222,8 +272,18 @@
       "volume": 35,
       "issue": 16,
       "pages": "21-26",
-      "keywords": ["FACTS", "电压稳定", "电力系统", "稳定评估"],
-      "keywordsEn": ["FACTS", "Voltage stability", "Power system", "Stability assessment"],
+      "keywords": [
+        "FACTS",
+        "电压稳定",
+        "电力系统",
+        "稳定评估"
+      ],
+      "keywordsEn": [
+        "FACTS",
+        "Voltage stability",
+        "Power system",
+        "Stability assessment"
+      ],
       "abstract": "研究了含FACTS元件的电力系统电压稳定评估问题。提出了一种考虑FACTS元件动态特性的电压稳定评估方法，通过建立扩展的潮流模型和稳定分析模型，实现了对含FACTS电力系统的电压稳定性准确评估。",
       "abstractEn": "The voltage stability assessment problem of power systems with FACTS devices is studied. A voltage stability assessment method considering dynamic characteristics of FACTS devices is proposed. By establishing an extended power flow model and stability analysis model, accurate assessment of voltage stability of power systems with FACTS devices is achieved.",
       "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20110507008&flag=1"
@@ -264,8 +324,18 @@
       "volume": 35,
       "issue": 12,
       "pages": "37-41",
-      "keywords": ["新息图法", "负荷突变", "辨识算法", "电力系统"],
-      "keywordsEn": ["Innovation graph method", "Load mutation", "Identification algorithm", "Power system"],
+      "keywords": [
+        "新息图法",
+        "负荷突变",
+        "辨识算法",
+        "电力系统"
+      ],
+      "keywordsEn": [
+        "Innovation graph method",
+        "Load mutation",
+        "Identification algorithm",
+        "Power system"
+      ],
       "abstract": "研究了基于新息图法的电力系统负荷突变辨识问题。提出了一种基于新息图法的负荷突变辨识算法，通过分析负荷变化的统计特性，实现了对电力系统负荷突变的快速检测和辨识。",
       "abstractEn": "The power system load mutation identification problem based on innovation graph method is studied. A load mutation identification algorithm based on innovation graph method is proposed. By analyzing the statistical characteristics of load variations, rapid detection and identification of power system load mutations are achieved.",
       "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20110506008&flag=1"
@@ -305,8 +375,18 @@
       "year": 2012,
       "volume": 35,
       "issue": 5,
-      "keywords": ["智能电网", "调度控制", "变电站监控", "实用化改进"],
-      "keywordsEn": ["Smart grid", "Dispatch control", "Substation monitoring", "Practical improvements"],
+      "keywords": [
+        "智能电网",
+        "调度控制",
+        "变电站监控",
+        "实用化改进"
+      ],
+      "keywordsEn": [
+        "Smart grid",
+        "Dispatch control",
+        "Substation monitoring",
+        "Practical improvements"
+      ],
       "abstract": "介绍了智能电网调度控制系统中变电站集中监控功能的几项实用化改进。通过优化监控界面和功能设计，提高了系统的实用性和操作效率。",
       "abstractEn": "Several practical improvements for substation centralized monitoring function in smart grid dispatch control system are introduced. By optimizing the monitoring interface and functional design, the practicality and operational efficiency of the system are improved."
     },
@@ -347,8 +427,18 @@
       "issue": 9,
       "pages": "132-136",
       "doi": "10.7500/AEPS20130415006",
-      "keywords": ["混合量测", "状态估计", "相角参考点", "坏数据处理"],
-      "keywordsEn": ["Mixed measurement", "State estimation", "Phase angle reference", "Bad data processing"],
+      "keywords": [
+        "混合量测",
+        "状态估计",
+        "相角参考点",
+        "坏数据处理"
+      ],
+      "keywordsEn": [
+        "Mixed measurement",
+        "State estimation",
+        "Phase angle reference",
+        "Bad data processing"
+      ],
       "abstract": "研究了混合量测状态估计中相角参考点坏数据问题的处理方法。提出了一种基于相角参考点一致性检验的坏数据检测方法，通过分析不同参考点之间的相角关系，实现了对相角参考点坏数据的快速检测和识别。",
       "abstractEn": "The processing method for bad data problems in mixed measurement state estimation phase angle reference points is studied. A bad data detection method based on phase angle reference point consistency check is proposed. By analyzing the phase angle relationship between different reference points, rapid detection and identification of phase angle reference point bad data are achieved.",
       "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20140507008&flag=1"
@@ -389,8 +479,18 @@
       "volume": 38,
       "issue": 6,
       "pages": "49-54",
-      "keywords": ["不确定性推理", "变电站", "拓扑错误辨识", "状态估计"],
-      "keywordsEn": ["Uncertainty reasoning", "Substation", "Topology error identification", "State estimation"],
+      "keywords": [
+        "不确定性推理",
+        "变电站",
+        "拓扑错误辨识",
+        "状态估计"
+      ],
+      "keywordsEn": [
+        "Uncertainty reasoning",
+        "Substation",
+        "Topology error identification",
+        "State estimation"
+      ],
       "abstract": "研究了基于不确定性推理的变电站拓扑错误辨识问题。提出了一种结合贝叶斯推理和模糊逻辑的拓扑错误辨识方法，通过分析量测数据的不确定性，实现了对变电站拓扑错误的准确辨识。",
       "abstractEn": "The substation topology error identification problem based on uncertainty reasoning is studied. A topology error identification method combining Bayesian reasoning and fuzzy logic is proposed. By analyzing the uncertainty of measurement data, accurate identification of substation topology errors is achieved.",
       "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20140506008&flag=1"
@@ -428,8 +528,18 @@
       "issue": 2,
       "pages": "30-33",
       "doi": "10.19464/j.cnki.cn32-1541/tm.2014.02.009",
-      "keywords": ["EMS", "地区电网", "合环风险评估", "电网安全"],
-      "keywordsEn": ["EMS", "Regional power grid", "Loop closing risk assessment", "Power grid security"],
+      "keywords": [
+        "EMS",
+        "地区电网",
+        "合环风险评估",
+        "电网安全"
+      ],
+      "keywordsEn": [
+        "EMS",
+        "Regional power grid",
+        "Loop closing risk assessment",
+        "Power grid security"
+      ],
       "abstract": "开发了一套基于EMS的地区电网合环风险评估系统。该系统能够实时分析电网运行状态，评估合环操作的风险等级，为调度人员提供决策支持。系统已在多个地区电网中成功应用。",
       "abstractEn": "A regional power grid loop closing risk assessment system based on EMS is developed. The system can analyze power grid operation status in real time, evaluate the risk level of loop closing operations, and provide decision support for dispatch personnel. The system has been successfully applied in multiple regional power grids.",
       "url": "https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19464/j.cnki.cn32-1541/tm.2014.02.009"
@@ -466,8 +576,18 @@
       "volume": 17,
       "issue": 4,
       "pages": "59-62",
-      "keywords": ["多目标函数", "预抗差估计", "状态估计", "鲁棒性"],
-      "keywordsEn": ["Multi-objective function", "Pre-robust estimation", "State estimation", "Robustness"],
+      "keywords": [
+        "多目标函数",
+        "预抗差估计",
+        "状态估计",
+        "鲁棒性"
+      ],
+      "keywordsEn": [
+        "Multi-objective function",
+        "Pre-robust estimation",
+        "State estimation",
+        "Robustness"
+      ],
       "abstract": "研究了多目标函数预抗差估计方法。提出了一种结合多目标优化和抗差估计的算法，提高了状态估计的鲁棒性和计算效率。",
       "abstractEn": "The multi-objective function pre-robust estimation method is studied. An algorithm combining multi-objective optimization and robust estimation is proposed, improving the robustness and computational efficiency of state estimation."
     },
@@ -503,8 +623,18 @@
       "volume": 7,
       "issue": 3,
       "pages": "53-57",
-      "keywords": ["EMS", "经济调度", "辅助决策", "地区电网"],
-      "keywordsEn": ["EMS", "Economic dispatch", "Auxiliary decision", "Regional power grid"],
+      "keywords": [
+        "EMS",
+        "经济调度",
+        "辅助决策",
+        "地区电网"
+      ],
+      "keywordsEn": [
+        "EMS",
+        "Economic dispatch",
+        "Auxiliary decision",
+        "Regional power grid"
+      ],
       "abstract": "开发了基于EMS的地区电网经济调度辅助决策系统。该系统能够为调度人员提供经济调度的决策支持，优化电网运行效率。",
       "abstractEn": "An economic dispatch auxiliary decision system based on EMS for regional power grid is developed. The system can provide decision support for economic dispatch for dispatch personnel and optimize power grid operation efficiency."
     },
@@ -541,8 +671,18 @@
       "issue": 11,
       "pages": "143-147",
       "doi": "10.7500/AEPS20150615015",
-      "keywords": ["加权最小二乘", "状态估计", "量测权值", "实用方法"],
-      "keywordsEn": ["Weighted least squares", "State estimation", "Measurement weight", "Practical method"],
+      "keywords": [
+        "加权最小二乘",
+        "状态估计",
+        "量测权值",
+        "实用方法"
+      ],
+      "keywordsEn": [
+        "Weighted least squares",
+        "State estimation",
+        "Measurement weight",
+        "Practical method"
+      ],
       "abstract": "研究了加权最小二乘状态估计中量测权值计算的实用方法。针对传统权值计算方法的局限性，提出了一种基于量测精度和可靠性的权值计算方法。该方法能够根据量测设备的实际性能动态调整权值，提高了状态估计的准确性和鲁棒性。",
       "abstractEn": "The practical method for measurement weight calculation in weighted least squares state estimation is studied. To address the limitations of traditional weight calculation methods, a weight calculation method based on measurement accuracy and reliability is proposed. The method can dynamically adjust weights according to the actual performance of measurement devices, improving the accuracy and robustness of state estimation.",
       "url": "http://www.aeps-info.com/aeps/ch/reader/create_pdf.aspx?file_no=20150615015&flag=1&journal_id=aeps&year_id=2016"
@@ -580,8 +720,18 @@
       "issue": 3,
       "pages": "83-88",
       "doi": "10.7500/AEPS20160607008",
-      "keywords": ["并行计算", "状态估计", "稀疏矩阵", "SuperLU"],
-      "keywordsEn": ["Parallel computing", "State estimation", "Sparse matrix", "SuperLU"],
+      "keywords": [
+        "并行计算",
+        "状态估计",
+        "稀疏矩阵",
+        "SuperLU"
+      ],
+      "keywordsEn": [
+        "Parallel computing",
+        "State estimation",
+        "Sparse matrix",
+        "SuperLU"
+      ],
       "abstract": "针对电力系统状态估计中大规模稀疏线性方程组的求解问题，提出了一种基于并行稀疏系统直接求解库SuperLU_MT的快速求解方法。该方法充分利用了现代多核处理器的并行计算能力，通过任务并行和数据并行相结合的策略，显著提高了大规模电力系统状态估计的计算效率。仿真结果表明，与传统的串行求解方法相比，所提方法在8核处理器上可获得6倍以上的加速比。",
       "abstractEn": "A fast solution method based on parallel sparse system direct solver library SuperLU_MT is proposed for solving large-scale sparse linear equations in power system state estimation. The method makes full use of the parallel computing capabilities of modern multi-core processors through a combination of task parallelism and data parallelism, significantly improving the computational efficiency of large-scale power system state estimation. Simulation results show that compared with traditional serial solution methods, the proposed method can achieve more than 6x speedup on 8-core processors.",
       "url": "http://www.aeps-info.com/aeps/ch/reader/create_pdf.aspx?file_no=20160607008&flag=1&journal_id=aeps&year_id=2017"
@@ -608,8 +758,18 @@
       "location": "中国",
       "year": 2013,
       "pages": "1943-1946",
-      "keywords": ["PQ解耦", "支路参数估计", "电力系统", "参数辨识"],
-      "keywordsEn": ["PQ decoupling", "Branch parameter estimation", "Power system", "Parameter identification"],
+      "keywords": [
+        "PQ解耦",
+        "支路参数估计",
+        "电力系统",
+        "参数辨识"
+      ],
+      "keywordsEn": [
+        "PQ decoupling",
+        "Branch parameter estimation",
+        "Power system",
+        "Parameter identification"
+      ],
       "abstract": "提出了一种基于PQ解耦的支路参数估计方法。通过解耦有功和无功功率的计算，提高了参数估计的效率和精度。该方法适用于大规模电力系统的在线参数辨识。",
       "abstractEn": "A branch parameter estimation method based on PQ decoupling is proposed. By decoupling the calculation of active and reactive power, the efficiency and accuracy of parameter estimation are improved. The method is suitable for online parameter identification of large-scale power systems."
     },
@@ -639,8 +799,18 @@
       "location": "中国",
       "year": 2013,
       "pages": "2088-2091",
-      "keywords": ["杠杆量测", "状态估计", "检测方法", "综述"],
-      "keywordsEn": ["Leverage measurements", "State estimation", "Detection method", "Review"],
+      "keywords": [
+        "杠杆量测",
+        "状态估计",
+        "检测方法",
+        "综述"
+      ],
+      "keywordsEn": [
+        "Leverage measurements",
+        "State estimation",
+        "Detection method",
+        "Review"
+      ],
       "abstract": "综述了电力系统状态估计中杠杆量测的特性及检测方法。分析了杠杆量测对状态估计结果的影响，总结了现有的杠杆量测检测算法，并提出了未来的研究方向。",
       "abstractEn": "The characteristics and detection methods of leverage measurements in power system state estimation are reviewed. The impact of leverage measurements on state estimation results is analyzed, existing leverage measurement detection algorithms are summarized, and future research directions are proposed.",
       "url": "/files/leverage-meas.pdf"
@@ -674,8 +844,18 @@
       "conference": "ICEE 2006",
       "location": "International",
       "year": 2006,
-      "keywords": ["Power system topology", "Analysis package", "Applications", "Software"],
-      "keywordsEn": ["Power system topology", "Analysis package", "Applications", "Software"],
+      "keywords": [
+        "Power system topology",
+        "Analysis package",
+        "Applications",
+        "Software"
+      ],
+      "keywordsEn": [
+        "Power system topology",
+        "Analysis package",
+        "Applications",
+        "Software"
+      ],
       "abstract": "介绍了一个通用的电力系统拓扑分析软件包及其应用。该软件包能够处理各种复杂的电力系统拓扑结构，为电网分析和优化提供技术支持。",
       "abstractEn": "A general power system topology analysis package and its applications are introduced. The package can handle various complex power system topologies and provide technical support for power grid analysis and optimization.",
       "url": "/files/PSNTP_paper.pdf"
@@ -693,8 +873,18 @@
       "conference": "IEEE PES General Meeting (PESGM 2010)",
       "location": "International",
       "year": 2010,
-      "keywords": ["Polar form", "Rectangular form", "Complex number", "Algorithm implementation"],
-      "keywordsEn": ["Polar form", "Rectangular form", "Complex number", "Algorithm implementation"],
+      "keywords": [
+        "Polar form",
+        "Rectangular form",
+        "Complex number",
+        "Algorithm implementation"
+      ],
+      "keywordsEn": [
+        "Polar form",
+        "Rectangular form",
+        "Complex number",
+        "Algorithm implementation"
+      ],
       "abstract": "研究了极坐标形式算法在直角坐标复数环境下的实现问题。提出了一种高效的坐标转换和算法实现方法，提高了电力系统计算的效率。",
       "abstractEn": "The implementation of polar form algorithms in rectangular form complex number environment is studied. An efficient coordinate conversion and algorithm implementation method is proposed, improving the efficiency of power system calculations.",
       "url": "/files/pesgm2010.pdf"
@@ -721,8 +911,18 @@
       "location": "International",
       "year": 2015,
       "pages": "1-6",
-      "keywords": ["Design pattern", "Steady state analysis", "Software architecture", "Power system"],
-      "keywordsEn": ["Design pattern", "Steady state analysis", "Software architecture", "Power system"],
+      "keywords": [
+        "Design pattern",
+        "Steady state analysis",
+        "Software architecture",
+        "Power system"
+      ],
+      "keywordsEn": [
+        "Design pattern",
+        "Steady state analysis",
+        "Software architecture",
+        "Power system"
+      ],
       "abstract": "提出了一种电力系统稳态分析软件的设计模式。该设计模式能够提高软件的可维护性和扩展性，为电力系统分析软件的开发提供指导。",
       "abstractEn": "A design pattern for power system steady state analysis software is proposed. The design pattern can improve software maintainability and extensibility, providing guidance for the development of power system analysis software.",
       "url": "/files/ICEE2015.pdf"
@@ -770,8 +970,18 @@
       "year": 2024,
       "pages": "1-6",
       "doi": "10.1109/ICPS60943.2024.10563654",
-      "keywords": ["Electric vehicles", "Flexible regulation", "Capability forecasting", "Probabilistic methods"],
-      "keywordsEn": ["Electric vehicles", "Flexible regulation", "Capability forecasting", "Probabilistic methods"],
+      "keywords": [
+        "Electric vehicles",
+        "Flexible regulation",
+        "Capability forecasting",
+        "Probabilistic methods"
+      ],
+      "keywordsEn": [
+        "Electric vehicles",
+        "Flexible regulation",
+        "Capability forecasting",
+        "Probabilistic methods"
+      ],
       "abstract": "研究了电动汽车灵活调节能力的概率预测方法。提出了一种考虑电动汽车充放电行为不确定性的预测模型，为电网调度提供了更准确的调节能力信息。",
       "abstractEn": "The probabilistic flexible regulation capability forecasting for electric vehicles is studied. A forecasting model considering the uncertainty of electric vehicle charging and discharging behavior is proposed, providing more accurate regulation capability information for power grid dispatch.",
       "url": "https://ieeexplore.ieee.org/document/10563654/"
@@ -825,8 +1035,18 @@
       "issue": 4,
       "pages": "5468-5478",
       "doi": "10.1109/TIA.2025.3548578",
-      "keywords": ["Electric vehicles", "Bayesian neural networks", "Transformer", "Flexible regulation"],
-      "keywordsEn": ["Electric vehicles", "Bayesian neural networks", "Transformer", "Flexible regulation"],
+      "keywords": [
+        "Electric vehicles",
+        "Bayesian neural networks",
+        "Transformer",
+        "Flexible regulation"
+      ],
+      "keywordsEn": [
+        "Electric vehicles",
+        "Bayesian neural networks",
+        "Transformer",
+        "Flexible regulation"
+      ],
       "abstract": "提出了一种基于贝叶斯神经网络和Transformer的电动汽车灵活调节能力概率预测方法。该方法结合了深度学习和概率推理，提高了预测精度和可靠性。",
       "abstractEn": "A probabilistic approach for forecasting flexible regulation capabilities of electric vehicles using Bayesian neural networks and Transformer is proposed. The method combines deep learning and probabilistic reasoning, improving prediction accuracy and reliability.",
       "url": "https://doi.org/10.1109/TIA.2025.3548578"
@@ -850,11 +1070,122 @@
       "year": 2020,
       "pages": "arXiv:2004.02096",
       "doi": "arXiv:2004.02096",
-      "keywords": ["AC-DC混合微电网", "直流母线", "灵活控制", "电动汽车"],
-      "keywordsEn": ["AC-DC hybrid microgrid", "DC bus", "Flexible control", "Electric vehicle"],
+      "keywords": [
+        "AC-DC混合微电网",
+        "直流母线",
+        "灵活控制",
+        "电动汽车"
+      ],
+      "keywordsEn": [
+        "AC-DC hybrid microgrid",
+        "DC bus",
+        "Flexible control",
+        "Electric vehicle"
+      ],
       "abstract": "研究了含电动汽车的AC-DC混合微电网直流母线灵活控制策略。提出了一种考虑电动汽车充放电特性的控制方法，提高了微电网的运行效率和稳定性。",
       "abstractEn": "The flexible control strategy of DC bus for AC-DC hybrid microgrid with electric vehicle is studied. A control method considering electric vehicle charging and discharging characteristics is proposed, improving the operation efficiency and stability of the microgrid.",
       "url": "https://arxiv.org/abs/2004.02096"
+    },
+    {
+      "type": "journal",
+      "authors": [
+        {
+          "name": "黄学良"
+        },
+        {
+          "name": "刘永东"
+        },
+        {
+          "name": "张梓麒"
+        },
+        {
+          "name": "龚成明"
+        },
+        {
+          "name": "高山"
+        },
+        {
+          "name": "姚涵议"
+        }
+      ],
+      "title": "面向规模化应用的车网互动：实践进展、关键瓶颈与发展路径",
+      "titleEn": "Vehicle-to-Grid for Large-scale Applications: Practical Progress, Key Bottlenecks, and Technical Pathways",
+      "journal": "电力系统自动化",
+      "year": 2026,
+      "volume": 50,
+      "issue": 15,
+      "pages": "3-22",
+      "url": "https://opaj.napstic.cn/periodicalArticle/0120260903285585"
+    },
+    {
+      "type": "journal",
+      "authors": [
+        {
+          "name": "邓叶航"
+        },
+        {
+          "name": "龚成明"
+        },
+        {
+          "name": "高剑"
+        },
+        {
+          "name": "邵长宏"
+        },
+        {
+          "name": "郭杉"
+        },
+        {
+          "name": "张利利"
+        }
+      ],
+      "title": "车网互动的价值匹配与规模化应用路径分析",
+      "titleEn": "Value Matching and Large-scale Application Pathway Analysis of Vehicle-to-Grid",
+      "journal": "电力系统自动化",
+      "year": 2026,
+      "volume": 50,
+      "issue": 15,
+      "pages": "23-41",
+      "url": "https://opaj.napstic.cn/periodicalArticle/0120260903285594"
+    },
+    {
+      "type": "journal",
+      "authors": [
+        {
+          "name": "朱德鑫"
+        },
+        {
+          "name": "韩亚宁"
+        },
+        {
+          "name": "龚成明"
+        },
+        {
+          "name": "邓叶航"
+        },
+        {
+          "name": "胡英健"
+        }
+      ],
+      "title": "现货模式下电力交易与充电运营及调控协同优化策略",
+      "titleEn": "Collaborative Optimization Strategies for Electricity Trading, Charging Operation and Regulation in Spot Market",
+      "journal": "电力系统自动化",
+      "year": 2026,
+      "volume": 50,
+      "issue": 15,
+      "pages": "211-221",
+      "url": "https://opaj.napstic.cn/periodicalArticle/0120260903285716"
+    }
+  ],
+  "books": [
+    {
+      "type": "book",
+      "title": "电动汽车充电网——技术、产品、平台及运营",
+      "role": "副主编",
+      "editors": "于德翔, 主编; 龚成明, 副主编",
+      "publisher": "中国电力出版社",
+      "year": 2024,
+      "isbn": "978-7-5198-9022-3"
     }
   ]
 }

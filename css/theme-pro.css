@@ -206,3 +206,6 @@ main > h1 { font-size: 1.4rem; margin: 1.6rem 0 .35rem; }
 @media (max-width: 640px) {
   .paper-list li { grid-template-columns: 2.8em 1fr; column-gap: .45rem; }
 }
+
+.me { font-weight: 650; }
+.books { margin-top: .4rem; }
