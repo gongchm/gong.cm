@@ -1,0 +1,102 @@
+{
+  "header": {
+    "title": "龚成明@DERI",
+    "meta": {
+      "description": "龚成明的个人主页 - 电力系统专家，研究方向包括电力系统运行控制、车网互动、微电网等",
+      "keywords": "龚成明,电力系统,状态估计,微电网,车网互动",
+      "author": "龚成明"
+    },
+    "skipLink": {
+      "text": "跳转到主内容",
+      "target": "#main-content"
+    }
+  },
+  "profile": {
+    "name": "龚成明",
+    "photo": "pic/photo.jpg",
+    "bio": "长期致力于电力系统运行与控制、微电网、车网互动（V2G）和虚拟电厂的技术研发。参与开发的电网调度自动化系统和主持开发的微电网能量管理系统及虚拟电厂系统获得了广泛的市场应用。",
+    "email": [
+      {
+        "display": "gongcm",
+        "domain": "@teld.cn"
+      },
+      {
+        "display": "gongchm",
+        "domain": "@gmail.com"
+      }
+    ],
+    "affiliations": [
+      {
+        "name": "南京德睿特来电能源研究院有限公司",
+        "abbr": "德睿特来电",
+        "tip": "南京德睿特来电能源研究院有限公司",
+        "url": "https://deri.org.cn"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "id": "experience",
+      "file": "experience.json",
+      "title": "主要经历",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "papers",
+      "file": "papers.json",
+      "title": "主要论文",
+      "enabled": true,
+      "order": 2,
+      "renderer": "papers"
+    },
+    {
+      "id": "awards",
+      "file": "awards.json",
+      "title": "获奖与专利",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "talks",
+      "file": "talks.json",
+      "title": "报告",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "projects",
+      "file": "projects.json",
+      "title": "课题存档",
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "id": "posts",
+      "file": "posts.json",
+      "title": "文选",
+      "enabled": true,
+      "order": 6,
+      "renderer": "posts"
+    }
+  ],
+  "footer": {
+    "createDate": "2008.2.15  创建",
+    "updateDate": "2026.10.12",
+    "updateLink": "https://github.com/gongchm/gong.cm/commits/main",
+    "contacts": {
+      "address": {
+        "text": "南京市雨花台区文竹路8号四号楼五楼",
+        "coordinates": {
+          "text": "（31.9792°N, 118.7789°E）",
+          "url": "https://map.baidu.com/search?query=南京德睿特来电能源研究院有限公司",
+          "target": "_blank"
+        }
+      }
+    }
+  },
+  "englishLink": {
+    "url": "Gong_Chengming_CV.html",
+    "text": "English"
+  }
+}
