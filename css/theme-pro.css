@@ -135,6 +135,8 @@ footer {
   font-size: .85rem;
 }
 footer a { color: var(--muted); }
+footer .address { margin: .35rem 0 0; color: var(--text); }
+.cv .address { margin-top: 1.4rem; }
 
 .doc-head { padding-top: 8px; }
 .post { padding-top: 22px; }
