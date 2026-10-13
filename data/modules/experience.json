@@ -16,7 +16,22 @@
     },
     {
       "type": "paragraph",
-      "text": "进修"
+      "text": "工作"
+    },
+    {
+      "type": "orderedList",
+      "start": 1,
+      "layout": "timeline",
+      "items": [
+        "2017.9-至今 南京德睿特来电能源研究院有限公司 董事长等；特来电新能源股份有限公司副总裁、首席科学家、总工程师",
+        "2016.8-2017.8 国电南瑞科技股份有限公司配/农电分公司副总经理",
+        "2015.5-2016.2 国网四川电力公司调控中心副主任（挂职）",
+        "2001.3-2016.8 国电南瑞科技股份有限公司电网分公司工程师、部门副经理、经理，副总工程师、总工程师、副总经理等"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "继续教育"
     },
     {
       "type": "orderedList",
@@ -25,21 +40,6 @@
       "items": [
         "2017.12-2018.02 线上课程，Introduction to Power Electronics, <a href=\"https://www.coursera.org/account/accomplishments/verify/WBXLEHBRGH7K\" target=\"_blank\">UCB@Coursera</a>",
         "2015.01-2015.04 线上课程，Heterogeneous Parallel Programming, <a href=\"https://www.coursera.org/account/accomplishments/verify/D9H6A7TT3Y\" target=\"_blank\">UIUC@Coursera</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "工作"
-    },
-    {
-      "type": "orderedList",
-      "start": 1,
-      "layout": "timeline",
-      "items": [
-        "2017.9-至今 南京德睿特来电能源研究院有限公司 董事长等；<a href=\"https://www.teld.cn\">特来电新能源股份有限公司</a>副总裁、首席科学家、总工程师",
-        "2016.8-2017.8 国电南瑞科技股份有限公司配/农电分公司副总经理",
-        "2015.5-2016.2 国网四川电力公司调控中心副主任（挂职）",
-        "2001.3-2016.8 国电南瑞科技股份有限公司电网分公司工程师、部门副经理、经理，副总工程师、总工程师、副总经理等"
       ]
     },
     {

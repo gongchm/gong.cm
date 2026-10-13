@@ -45,7 +45,7 @@
     {
       "id": "papers",
       "file": "papers.json",
-      "title": "主要论文",
+      "title": "出版",
       "enabled": true,
       "order": 2,
       "renderer": "papers"
