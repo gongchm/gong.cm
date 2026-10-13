@@ -68,7 +68,7 @@
       "id": "projects",
       "file": "projects.json",
       "title": "课题存档",
-      "enabled": true,
+      "enabled": false,
       "order": 5
     },
     {
