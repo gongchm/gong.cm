@@ -180,3 +180,29 @@ footer .address { margin: .35rem 0 0; color: var(--text); }
   .cv .period { padding-bottom: 0; }
   .site-nav { gap: 6px 12px; }
 }
+
+main > h1 { font-size: 1.4rem; margin: 1.6rem 0 .35rem; }
+.paper-list { list-style: none; margin: 1rem 0 0; padding: 0; }
+.paper-list li {
+  display: grid;
+  grid-template-columns: 3.2em 1fr;
+  column-gap: .8rem;
+  padding: .85rem 0;
+  border-top: 1px solid var(--line);
+}
+.paper-list .py {
+  font-family: var(--sans);
+  font-size: .9rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  padding-top: .12rem;
+}
+.paper-list .pt { margin: 0; font-weight: 650; }
+.paper-list .pa, .paper-list .pv { margin: .12rem 0 0; color: var(--muted); }
+.paper-list .pl { margin: .35rem 0 0; font-family: var(--sans); font-size: .88rem; }
+.paper-list .pl a + a { margin-left: .75rem; }
+.paper-list .abs { margin: .4rem 0 0; color: var(--muted); font-size: .92rem; }
+.paper-list .me { color: var(--text); font-weight: 650; }
+@media (max-width: 640px) {
+  .paper-list li { grid-template-columns: 2.8em 1fr; column-gap: .45rem; }
+}
