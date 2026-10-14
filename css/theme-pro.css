@@ -68,23 +68,27 @@ p { margin: 0 0 .8rem; }
 
 .profile {
   display: grid;
-  grid-template-columns: 104px 1fr;
-  gap: 20px 22px;
+  grid-template-columns: 112px 1fr;
+  column-gap: 22px;
+  row-gap: 14px;
   align-items: start;
   padding: 32px 0 8px;
 }
 .profile img {
-  width: 104px;
-  height: 128px;
+  width: 112px;
+  height: 140px;
   object-fit: cover;
   object-position: center 15%;
 }
 .profile h1 { margin: 0 0 6px; font-size: 1.7rem; }
 .role, .bio, .meta, .kicker { color: var(--muted); }
 .role { margin: 0 0 2px; }
-.bio { margin: 10px 0; color: var(--text); }
+.bio { margin: 0; color: var(--text); }
+.profile .bio { grid-column: 1 / -1; }
 .emails { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 8px; }
 .emails a { font-family: var(--sans); font-size: .95rem; }
+.profile a { color: #44403c; text-decoration: none; }
+.profile a:hover { color: var(--text); text-decoration: underline; }
 
 main { width: min(var(--measure), calc(100% - 40px)); margin: 0 auto; padding-bottom: 64px; }
 main section { scroll-margin-top: 56px; }
@@ -173,8 +177,8 @@ footer .address { margin: .35rem 0 0; color: var(--text); }
 .cv .footer { margin-top: 1.6rem; color: var(--muted); font-family: var(--sans); font-size: .85rem; }
 
 @media (max-width: 640px) {
-  .profile { grid-template-columns: 76px 1fr; gap: 14px; }
-  .profile img { width: 76px; height: 96px; }
+  .profile { grid-template-columns: 88px 1fr; column-gap: 14px; row-gap: 12px; }
+  .profile img { width: 88px; height: 110px; }
   .profile h1 { font-size: 1.4rem; }
   .catalog li, .cv .timeline, .cv .timeline tbody, .cv .timeline tr, .cv .timeline td { display: block; width: auto; }
   .cv .period { padding-bottom: 0; }
