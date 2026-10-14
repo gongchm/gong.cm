@@ -74,7 +74,7 @@
     {
       "id": "posts",
       "file": "posts.json",
-      "title": "文选",
+      "title": "散记",
       "enabled": true,
       "order": 6,
       "renderer": "posts"
