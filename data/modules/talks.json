@@ -5,6 +5,22 @@
       "type": "articles",
       "items": [
         {
+          "kicker": "2026-09-20 · 天津",
+          "title": "从“网的需求”到“车的自觉”——面向交能融合构建车企全新竞争力",
+          "meta": "第二十二届中国汽车产业发展（泰达）国际论坛",
+          "text": "从电网对消纳、快速调节和可靠性的需求出发，说明车企可把充电优化、电池储能、虚拟电网和自动驾驶能源枢纽做成可经营的能力。",
+          "url": "files/teda-2026.pdf",
+          "linkText": "PDF"
+        },
+        {
+          "kicker": "2024-01-25 · 北京",
+          "title": "电动汽车与新型电力系统规模化融合互动——探索与展望",
+          "meta": "IEEE 会议",
+          "text": "回顾 2018 年公交充电调度和 2019 年华北调峰辅助服务试点，并讨论电动汽车沿能量、容量、功率和双向互动继续融入新型电力系统。",
+          "url": "files/ev-grid-2024.pdf",
+          "linkText": "PDF"
+        },
+        {
           "kicker": "2017-08-12 · 南京",
           "title": "Estimation of the Random Error Variance of Measurements on Time-Varying Values",
           "meta": "紫金国际智能电网保护与控制论坛（Zijin-2017），17:00–17:20",
