@@ -31,19 +31,6 @@
     },
     {
       "type": "paragraph",
-      "text": "继续教育"
-    },
-    {
-      "type": "orderedList",
-      "start": 1,
-      "layout": "timeline",
-      "items": [
-        "2017.12-2018.02 线上课程，Introduction to Power Electronics, <a href=\"https://www.coursera.org/account/accomplishments/verify/WBXLEHBRGH7K\" target=\"_blank\">UCB@Coursera</a>",
-        "2015.01-2015.04 线上课程，Heterogeneous Parallel Programming, <a href=\"https://www.coursera.org/account/accomplishments/verify/D9H6A7TT3Y\" target=\"_blank\">UIUC@Coursera</a>"
-      ]
-    },
-    {
-      "type": "paragraph",
       "text": "资格"
     },
     {
@@ -72,6 +59,19 @@
         "2022 南京大学工管学院兼职研究生导师",
         "2016 国网电科院硕士研究生导师",
         "2014 河海大学硕士研究生导师"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "继续教育"
+    },
+    {
+      "type": "orderedList",
+      "start": 1,
+      "layout": "timeline",
+      "items": [
+        "2017.12-2018.02 线上课程，Introduction to Power Electronics, <a href=\"https://www.coursera.org/account/accomplishments/verify/WBXLEHBRGH7K\" target=\"_blank\">UCB@Coursera</a>",
+        "2015.01-2015.04 线上课程，Heterogeneous Parallel Programming, <a href=\"https://www.coursera.org/account/accomplishments/verify/D9H6A7TT3Y\" target=\"_blank\">UIUC@Coursera</a>"
       ]
     }
   ]
