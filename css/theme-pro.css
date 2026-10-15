@@ -110,6 +110,8 @@ p { margin: 0 0 .8rem; }
 .role { margin: 0 0 2px; }
 .bio { margin: 0; color: var(--text); }
 .profile .bio { grid-column: 1 / -1; }
+.profile .bio-file { grid-column: 1 / -1; margin: 10px 0 0; }
+.profile .bio-file a { font-family: var(--sans); font-size: .92rem; }
 .emails { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 8px; }
 .emails a { font-family: var(--sans); font-size: .95rem; }
 .profile a { color: #44403c; text-decoration: none; }
