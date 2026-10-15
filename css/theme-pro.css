@@ -124,7 +124,7 @@ main h2 {
   border-bottom: 1px solid var(--line);
 }
 main h2 a, main h3 a { font-family: var(--sans); font-size: .85rem; font-weight: 450; margin-left: .6rem; }
-main h3 { font-size: 1rem; margin: 1.1rem 0 .35rem; }
+main h3 { font-size: 1.05rem; margin: 1.25rem 0 .95rem; }
 
 .plain { margin: 0; padding-left: 1.15rem; }
 .plain li { margin: 0 0 .45rem; }
@@ -143,6 +143,8 @@ main h3 { font-size: 1rem; margin: 1.1rem 0 .35rem; }
 
 .entry { padding: 0 0 1.1rem; margin: 0 0 1.1rem; border-bottom: 1px solid var(--line); }
 .entry h3, .entry h4 { margin: 0 0 .25rem; }
+.entry h3 { font-size: 1rem; font-weight: 600; }
+.entry h4 { font-size: .95rem; font-weight: 600; }
 .entry img { width: auto; max-width: min(100%, 360px); margin: .4rem 0 .6rem; }
 .kicker { font-family: var(--sans); font-size: .85rem; margin: 0 0 .2rem; }
 .entry .kicker { margin: .15rem 0 .35rem; }
@@ -168,6 +170,8 @@ footer {
 }
 footer a { color: var(--muted); }
 footer p { margin: 0; }
+footer .chunk { display: inline-block; white-space: nowrap; }
+footer .chunk:not(:last-child)::after { content: " · "; }
 .cv .address { margin-top: 1.4rem; }
 
 .doc-head { padding-top: 8px; }
