@@ -106,6 +106,7 @@ main h3 { font-size: 1rem; margin: 1.1rem 0 .35rem; }
 .plain li::marker { color: var(--muted); }
 .plain.edu a { color: #44403c; text-decoration: none; }
 .plain.edu a:hover { color: var(--text); text-decoration: underline; }
+.zh-quote { font-family: "Songti SC", "Source Han Serif SC", "Noto Serif CJK SC", "STSong", "SimSun", serif; }
 
 .bib { list-style: none; margin: 0; padding: 0; }
 .bib li {
