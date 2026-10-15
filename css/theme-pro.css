@@ -104,6 +104,8 @@ main h3 { font-size: 1rem; margin: 1.1rem 0 .35rem; }
 .plain { margin: 0; padding-left: 1.15rem; }
 .plain li { margin: 0 0 .45rem; }
 .plain li::marker { color: var(--muted); }
+.plain.edu a { color: #44403c; text-decoration: none; }
+.plain.edu a:hover { color: var(--text); text-decoration: underline; }
 
 .bib { list-style: none; margin: 0; padding: 0; }
 .bib li {
