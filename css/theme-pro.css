@@ -107,10 +107,15 @@ p { margin: 0 0 .8rem; }
 }
 .profile h1 { margin: 0 0 6px; font-size: 1.7rem; }
 .role, .bio, .meta, .kicker { color: var(--muted); }
-.role { margin: 0 0 2px; }
+.role { margin: 0 0 2px; font-size: 17px; }
 .bio { margin: 0; color: var(--text); }
-.profile .bio { grid-column: 1 / -1; line-height: 1.7; }
-.profile .bio br { display: block; content: ""; margin-top: 1em; }
+.profile .bio {
+  grid-column: 1 / -1;
+  font-family: var(--font);
+  font-size: 17px;
+  line-height: 1.65;
+}
+.profile .bio + .bio { margin-top: .85em; }
 .emails { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 8px; }
 .emails a { font-family: var(--sans); font-size: .95rem; }
 .profile a { color: #44403c; text-decoration: none; }
@@ -215,10 +220,13 @@ footer .chunk:not(:last-child)::after { content: " · "; }
   .profile img { width: 88px; height: 110px; grid-column: 1; grid-row: 1 / span 2; }
   .profile h1 { grid-column: 2; grid-row: 1; font-size: 1.4rem; }
   .profile .emails { grid-column: 2; grid-row: 2; margin-bottom: 0; }
+  .profile .role,
+  .profile .bio {
+    font-size: min(16.5px, calc((100vw - 56px) / 20));
+  }
   .profile .role {
     grid-column: 1 / -1;
     white-space: nowrap;
-    font-size: min(16.5px, calc((100vw - 56px) / 20));
   }
   .catalog li { grid-template-columns: 6.6em 1fr; gap: 8px; }
   .cv .timeline, .cv .timeline tbody, .cv .timeline tr, .cv .timeline td { display: block; width: auto; }
