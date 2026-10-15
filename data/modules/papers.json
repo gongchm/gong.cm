@@ -73,7 +73,6 @@
       "volume": 25,
       "issue": 6,
       "pages": "1-3",
-      "doi": "10.19464/j.cnki.cn32-1541/tm.2006.06.001",
       "keywords": [
         "节点注入量",
         "补偿法",
@@ -426,7 +425,6 @@
       "volume": 38,
       "issue": 9,
       "pages": "132-136",
-      "doi": "10.7500/AEPS20130415006",
       "keywords": [
         "混合量测",
         "状态估计",
@@ -527,7 +525,6 @@
       "volume": 33,
       "issue": 2,
       "pages": "30-33",
-      "doi": "10.19464/j.cnki.cn32-1541/tm.2014.02.009",
       "keywords": [
         "EMS",
         "地区电网",
@@ -670,7 +667,6 @@
       "volume": 40,
       "issue": 11,
       "pages": "143-147",
-      "doi": "10.7500/AEPS20150615015",
       "keywords": [
         "加权最小二乘",
         "状态估计",
@@ -719,7 +715,6 @@
       "volume": 41,
       "issue": 3,
       "pages": "83-88",
-      "doi": "10.7500/AEPS20160607008",
       "keywords": [
         "并行计算",
         "状态估计",
@@ -969,7 +964,6 @@
       "location": "International",
       "year": 2024,
       "pages": "1-6",
-      "doi": "10.1109/ICPS60943.2024.10563654",
       "keywords": [
         "Electric vehicles",
         "Flexible regulation",
@@ -1034,7 +1028,6 @@
       "volume": 61,
       "issue": 4,
       "pages": "5468-5478",
-      "doi": "10.1109/TIA.2025.3548578",
       "keywords": [
         "Electric vehicles",
         "Bayesian neural networks",
@@ -1048,8 +1041,7 @@
         "Flexible regulation"
       ],
       "abstract": "提出了一种基于贝叶斯神经网络和Transformer的电动汽车灵活调节能力概率预测方法。该方法结合了深度学习和概率推理，提高了预测精度和可靠性。",
-      "abstractEn": "A probabilistic approach for forecasting flexible regulation capabilities of electric vehicles using Bayesian neural networks and Transformer is proposed. The method combines deep learning and probabilistic reasoning, improving prediction accuracy and reliability.",
-      "url": "https://doi.org/10.1109/TIA.2025.3548578"
+      "abstractEn": "A probabilistic approach for forecasting flexible regulation capabilities of electric vehicles using Bayesian neural networks and Transformer is proposed. The method combines deep learning and probabilistic reasoning, improving prediction accuracy and reliability."
     },
     {
       "type": "preprint",
@@ -1069,7 +1061,6 @@
       "journalEn": "arXiv",
       "year": 2020,
       "pages": "arXiv:2004.02096",
-      "doi": "arXiv:2004.02096",
       "keywords": [
         "AC-DC混合微电网",
         "直流母线",
