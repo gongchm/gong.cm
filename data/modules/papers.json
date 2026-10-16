@@ -285,7 +285,7 @@
       ],
       "abstract": "研究了含FACTS元件的电力系统电压稳定评估问题。提出了一种考虑FACTS元件动态特性的电压稳定评估方法，通过建立扩展的潮流模型和稳定分析模型，实现了对含FACTS电力系统的电压稳定性准确评估。",
       "abstractEn": "The voltage stability assessment problem of power systems with FACTS devices is studied. A voltage stability assessment method considering dynamic characteristics of FACTS devices is proposed. By establishing an extended power flow model and stability analysis model, accurate assessment of voltage stability of power systems with FACTS devices is achieved.",
-      "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20110507008&flag=1"
+      "url": "/files/aeps-20110507008.pdf"
     },
     {
       "type": "journal",
@@ -337,7 +337,7 @@
       ],
       "abstract": "研究了基于新息图法的电力系统负荷突变辨识问题。提出了一种基于新息图法的负荷突变辨识算法，通过分析负荷变化的统计特性，实现了对电力系统负荷突变的快速检测和辨识。",
       "abstractEn": "The power system load mutation identification problem based on innovation graph method is studied. A load mutation identification algorithm based on innovation graph method is proposed. By analyzing the statistical characteristics of load variations, rapid detection and identification of power system load mutations are achieved.",
-      "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20110506008&flag=1"
+      "url": "/files/aeps-20110506008.pdf"
     },
     {
       "type": "journal",
@@ -439,7 +439,7 @@
       ],
       "abstract": "研究了混合量测状态估计中相角参考点坏数据问题的处理方法。提出了一种基于相角参考点一致性检验的坏数据检测方法，通过分析不同参考点之间的相角关系，实现了对相角参考点坏数据的快速检测和识别。",
       "abstractEn": "The processing method for bad data problems in mixed measurement state estimation phase angle reference points is studied. A bad data detection method based on phase angle reference point consistency check is proposed. By analyzing the phase angle relationship between different reference points, rapid detection and identification of phase angle reference point bad data are achieved.",
-      "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20140507008&flag=1"
+      "url": "/files/aeps-20140507008.pdf"
     },
     {
       "type": "journal",
@@ -491,7 +491,7 @@
       ],
       "abstract": "研究了基于不确定性推理的变电站拓扑错误辨识问题。提出了一种结合贝叶斯推理和模糊逻辑的拓扑错误辨识方法，通过分析量测数据的不确定性，实现了对变电站拓扑错误的准确辨识。",
       "abstractEn": "The substation topology error identification problem based on uncertainty reasoning is studied. A topology error identification method combining Bayesian reasoning and fuzzy logic is proposed. By analyzing the uncertainty of measurement data, accurate identification of substation topology errors is achieved.",
-      "url": "http://www.aeps-info.com/aeps/ch/reader/view_abstract.aspx?file_no=20140506008&flag=1"
+      "url": "/files/aeps-20140506008.pdf"
     },
     {
       "type": "journal",
