@@ -115,7 +115,7 @@ p { margin: 0 0 .8rem; }
   font-size: 17px;
   line-height: 1.65;
 }
-.profile .bio + .bio { margin-top: .85em; }
+.profile .bio + .bio { margin-top: .3em; }
 .emails { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0 0 8px; }
 .emails a { font-family: var(--sans); font-size: .95rem; }
 .profile a { color: #44403c; text-decoration: none; }
