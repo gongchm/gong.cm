@@ -147,7 +147,7 @@
       ],
       "abstract": "介绍了EMS规划态应用软件的开发与应用。该软件能够支持电网规划方案的评估和优化，为电网规划人员提供技术支持。软件已在多个省级电网公司中成功应用。",
       "abstractEn": "The development and application of EMS planning mode application software are introduced. The software can support the evaluation and optimization of power grid planning schemes, providing technical support for power grid planners. The software has been successfully applied in multiple provincial power grid companies.",
-      "url": "http://www.aeps-info.com/aeps/ch/reader/create_pdf.aspx?file_no=d062120&flag=1&journal_id=aeps&year_id=2006"
+      "url": "/files/aeps-d062120.pdf"
     },
     {
       "type": "journal",
@@ -681,7 +681,7 @@
       ],
       "abstract": "研究了加权最小二乘状态估计中量测权值计算的实用方法。针对传统权值计算方法的局限性，提出了一种基于量测精度和可靠性的权值计算方法。该方法能够根据量测设备的实际性能动态调整权值，提高了状态估计的准确性和鲁棒性。",
       "abstractEn": "The practical method for measurement weight calculation in weighted least squares state estimation is studied. To address the limitations of traditional weight calculation methods, a weight calculation method based on measurement accuracy and reliability is proposed. The method can dynamically adjust weights according to the actual performance of measurement devices, improving the accuracy and robustness of state estimation.",
-      "url": "http://www.aeps-info.com/aeps/ch/reader/create_pdf.aspx?file_no=20150615015&flag=1&journal_id=aeps&year_id=2016"
+      "url": "/files/aeps-20150615015.pdf"
     },
     {
       "type": "journal",
@@ -729,7 +729,7 @@
       ],
       "abstract": "针对电力系统状态估计中大规模稀疏线性方程组的求解问题，提出了一种基于并行稀疏系统直接求解库SuperLU_MT的快速求解方法。该方法充分利用了现代多核处理器的并行计算能力，通过任务并行和数据并行相结合的策略，显著提高了大规模电力系统状态估计的计算效率。仿真结果表明，与传统的串行求解方法相比，所提方法在8核处理器上可获得6倍以上的加速比。",
       "abstractEn": "A fast solution method based on parallel sparse system direct solver library SuperLU_MT is proposed for solving large-scale sparse linear equations in power system state estimation. The method makes full use of the parallel computing capabilities of modern multi-core processors through a combination of task parallelism and data parallelism, significantly improving the computational efficiency of large-scale power system state estimation. Simulation results show that compared with traditional serial solution methods, the proposed method can achieve more than 6x speedup on 8-core processors.",
-      "url": "http://www.aeps-info.com/aeps/ch/reader/create_pdf.aspx?file_no=20160607008&flag=1&journal_id=aeps&year_id=2017"
+      "url": "/files/aeps-20160607008.pdf"
     },
     {
       "type": "conference",
