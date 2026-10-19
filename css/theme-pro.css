@@ -259,7 +259,8 @@ main > h1 { font-size: 1.4rem; margin: 1.6rem 0 .35rem; }
 .paper-list .pa, .paper-list .pv { margin: .12rem 0 0; color: var(--muted); }
 .paper-list .pl { margin: .35rem 0 0; font-family: var(--sans); font-size: .88rem; }
 .paper-list .pl a + a { margin-left: .75rem; }
-.paper-list .abs { margin: .4rem 0 0; color: var(--muted); font-size: .92rem; }
+.paper-list .abs { margin: .4rem 0 0; color: var(--muted); font-size: .86rem; line-height: 1.65; }
+.paper-list .abs .al { font-family: var(--sans); margin-right: .35em; }
 .paper-list .me { color: var(--text); font-weight: 650; }
 @media (max-width: 640px) {
   .paper-list li { grid-template-columns: 2.8em 1fr; column-gap: .45rem; }
