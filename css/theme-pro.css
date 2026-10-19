@@ -175,8 +175,9 @@ footer {
 }
 footer a { color: var(--muted); }
 footer p { margin: 0; }
+footer .foot-line + .foot-line { margin-top: .28rem; }
 footer .chunk { display: inline-block; white-space: nowrap; }
-footer .chunk:not(:last-child)::after { content: " · "; }
+footer .foot-line .chunk:not(:last-child)::after { content: " · "; }
 .cv .address { margin-top: 1.4rem; }
 
 .doc-head { padding-top: 8px; }
@@ -232,6 +233,7 @@ footer .chunk:not(:last-child)::after { content: " · "; }
   .cv .period { padding-bottom: 0; }
   .site-nav { gap: 6px 12px; }
   footer { text-align: center; }
+  footer .foot-line + .foot-line { margin-top: 0; }
   footer .chunk { display: block; }
   footer .chunk:not(:last-child)::after { content: none; }
   footer .chunk + .chunk { margin-top: .4rem; }
