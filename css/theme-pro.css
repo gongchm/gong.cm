@@ -248,6 +248,8 @@ main > h1 { font-size: 1.4rem; margin: 1.6rem 0 .35rem; }
   padding: .85rem 0;
   border-top: 1px solid var(--line);
 }
+.paper-list .py { grid-column: 1; }
+.paper-list li > div { grid-column: 2; }
 .paper-list .py {
   font-family: var(--sans);
   font-size: .9rem;
