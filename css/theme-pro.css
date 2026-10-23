@@ -243,7 +243,7 @@ footer .pair:not(:last-child)::after { content: " · "; }
     gap: .4rem;
   }
   footer .pair { white-space: nowrap; }
-  footer .pair::after { content: none; }
+  footer .meta .pair:not(:last-child)::after { content: none; }
   footer .meta > .chunk { display: block; }
   footer .meta > .chunk::after { content: none; }
 }
