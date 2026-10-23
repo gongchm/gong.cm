@@ -180,6 +180,7 @@ footer .foot-line + .foot-line { margin-top: .4rem; }
 footer .chunk { display: inline-block; white-space: nowrap; }
 footer .pair { display: inline; white-space: nowrap; }
 footer .pair .chunk:not(:last-child)::after { content: " · "; }
+#visit-count:empty::before { content: "…"; }
 .cv .address { margin-top: 1.4rem; }
 
 .doc-head { padding-top: 8px; }
